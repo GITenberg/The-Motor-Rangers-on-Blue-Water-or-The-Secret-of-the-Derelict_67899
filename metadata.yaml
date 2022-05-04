@@ -1,0 +1,41 @@
+_repo: The-Motor-Rangers-on-Blue-Water-or-The-Secret-of-the-Derelict_67899
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goldfrap, John Henry
+    aliases:
+    - Lawton, Captain Wilbur
+    - Lawton, Wilbur
+    - Dexter J. Forrester
+    - Payson, Howard
+    - West, Marvin
+    - Forrester, Dexter J.
+    - Deering, Fremont B.
+    birthdate: 1879
+    deathdate: 1917
+    gutenberg_agent_id: '1974'
+    url: http://www.gutenberg.org/2009/agents/1974
+    wikipedia: https://en.wikipedia.org/wiki/John_Henry_Goldfrap
+description: ''
+gutenberg_issued: '2022-04-21'
+identifiers:
+  gutenberg: '67899'
+language: en
+pgterms:marc905: 20220416214729west
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: United States :Hurst & Company,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Boats and boating -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Schooners -- Juvenile fiction'
+- !lcsh 'Derelicts -- Juvenile fiction'
+- !lcsh 'Sea stories'
+- GITenberg
+title: The Motor Rangers on Blue Water; or, The Secret of the Derelict
+url: http://www.gutenberg.org/ebooks/67899
